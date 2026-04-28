@@ -10,7 +10,7 @@ This repository contains multiple projects completed during the internship, focu
 Each project demonstrates:
 
 Data preprocessing & cleaning
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA) 
 Feature engineering
 Model building & evaluation
 Visualization & insights
