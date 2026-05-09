@@ -4,7 +4,7 @@ Welcome to my Data Science project repository, created as part of my internship 
 This repository showcases practical implementations of data science concepts including data analysis, visualization, and machine learning.
 
 🚀 About the Repository
-
+ 
 This repository contains multiple projects completed during the internship, focusing on real-world datasets and problem-solving.
 
 Each project demonstrates:
